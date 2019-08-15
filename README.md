@@ -16,7 +16,7 @@
 
 ✔Lesson-04
 
-⬜Assignment-04
+✔Assignment-04
 
 ▶Lesson-05
 
