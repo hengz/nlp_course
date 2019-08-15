@@ -14,7 +14,7 @@
 
 ⬜Assignment-03
 
-✔Lesson-04
+✔Lesson-04 word2vex
 
 ✔Assignment-04 基于维基百科的词向量构建
 
