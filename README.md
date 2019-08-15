@@ -16,7 +16,7 @@
 
 ✔Lesson-04
 
-✔Assignment-04
+✔Assignment-04 基于维基百科的词向量构建
 
 ▶Lesson-05
 
