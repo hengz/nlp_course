@@ -18,7 +18,7 @@
 
 ✔Assignment-04
 
-▶Lesson-05
+✔Lesson-05
 
 ⬜Assignment-05
 
