@@ -20,6 +20,4 @@
 
 ✔Lesson-05
 
-⬜Assignment-05
-
 ▶Lesson-06 First step on ML
