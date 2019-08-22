@@ -10,7 +10,7 @@
 
 ✔Assignment-02
 
-▶Lesson-03
+⬜Lesson-03
 
 ⬜Assignment-03
 
@@ -20,4 +20,8 @@
 
 ✔Lesson-05
 
-▶Lesson-06 First step on ML
+✔Lesson-06 First step on ML
+
+✔Assignment-06
+
+▶Lesson-07 Classic ML Models
