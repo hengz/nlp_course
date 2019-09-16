@@ -24,4 +24,14 @@
 
 ✔Assignment-06
 
-▶Lesson-07 Classic ML Models
+✔Lesson-07 Classic ML Models
+
+▶Assignment-07 新华社新闻抄袭自动判别
+
+⬜Lesson-08
+
+⬜Lesson-09
+
+⬜Lesson-10
+
+⬜Lesson-11
