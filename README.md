@@ -28,10 +28,18 @@
 
 ▶Assignment-07 新华社新闻抄袭自动判别
 
-⬜Lesson-08
+✔Lesson-08
 
-⬜Lesson-09
+▶Assignment-08 新华社新闻抄袭自动判别 with SVM, random forest, k-means
+
+▶Lesson-09
 
 ⬜Lesson-10
 
 ⬜Lesson-11
+
+⬜Lesson-12
+
+⬜Lesson-13
+
+⬜Lesson-14
